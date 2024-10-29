@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edf8d64d-ec12-44b6-a54b-1b5e2ba219f1" name="Changes" comment="Conversors">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConversorDeMoedas/ConversorDeMoedasApi/APIService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConversorDeMoedas/ConversorDeMoedasApi/APIService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConversorDeMoedas/ConversorDeMoedasApp/ConversorMoedaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConversorDeMoedas/ConversorDeMoedasApp/ConversorMoedaApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="edf8d64d-ec12-44b6-a54b-1b5e2ba219f1" name="Changes" comment="Merge remote-tracking branch 'origin/main'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +32,9 @@
     &quot;accountId&quot;: &quot;01dcba30-3a57-4ac3-83e1-94445c6ba8ac&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -113,11 +112,28 @@
       <option name="project" value="LOCAL" />
       <updated>1730172326673</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Conversors">
+      <option name="closed" value="true" />
+      <created>1730220514693</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730220514693</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1730220866808</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730220866808</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Conversors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conversors" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
 </project>
