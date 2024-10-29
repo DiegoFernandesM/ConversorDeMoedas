@@ -36,6 +36,7 @@ public class ConversorMoedaApp {
 
             System.out.print("Deseja realizar outra conversão? (s/n): ");
             if (scanner.next().equalsIgnoreCase("n")) break;
+
         }
         scanner.close();
         System.out.println("Conversor encerrado.");
@@ -44,6 +45,7 @@ public class ConversorMoedaApp {
     private void exibirOpcoesMoedas(String[] currencyCodes) {
         for (int i = 0; i < currencyCodes.length; i++) {
             System.out.println((i + 1) + ". " + currencyCodes[i]);
+
         }
     }
 

@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="edf8d64d-ec12-44b6-a54b-1b5e2ba219f1" name="Changes" comment="Conversors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConversorDeMoedas/ConversorDeMoedasApi/APIService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConversorDeMoedas/ConversorDeMoedasApi/APIService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConversorDeMoedas/ConversorDeMoedasApp/ConversorMoedaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConversorDeMoedas/ConversorDeMoedasApp/ConversorMoedaApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DiegoFernandesM&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:DiegoFernandesM/ConversorDeMoedas.git&quot;,
+    &quot;accountId&quot;: &quot;01dcba30-3a57-4ac3-83e1-94445c6ba8ac&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2o4QdQdY3zZuytgCSxAPI57znxy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,19 +48,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConversorMoedaApp.executor": "Run",
+    "Application.Unnamed (1).executor": "Run",
     "Application.Unnamed.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Gson",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Unnamed (1)">
     <configuration name="ConversorMoedaApp" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConversorDeMoedasApp.ConversorMoedaApp" />
       <module name="Conversor de Moedas" />
@@ -55,6 +70,7 @@
       </method>
     </configuration>
     <configuration name="Unnamed (1)" type="Application" factoryName="Application" folderName="New Folder" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversorDeMoedasApp.ConversorMoedaApp" />
       <module name="Conversor de Moedas" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,8 +83,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ConversorMoedaApp" />
       <item itemvalue="Application.Unnamed (1)" />
+      <item itemvalue="Application.ConversorMoedaApp" />
       <item itemvalue="Application.Unnamed" />
     </list>
   </component>
@@ -89,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730168125976</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Conversors">
+      <option name="closed" value="true" />
+      <created>1730172326673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730172326673</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
